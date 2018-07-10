@@ -7,3 +7,4 @@ end
 
 say_hello ("charly")
 say_hello ("Randi")
+say_hello ("gabriella")
