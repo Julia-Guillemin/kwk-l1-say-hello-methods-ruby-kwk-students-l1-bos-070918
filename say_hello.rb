@@ -2,7 +2,7 @@
 
 
 def say_hello julia
-  puts "helow #{julia}"
+  puts "helow #{$julia}"
 end
 
 say_hello
