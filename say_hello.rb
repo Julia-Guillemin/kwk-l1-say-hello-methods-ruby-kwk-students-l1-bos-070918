@@ -3,7 +3,7 @@
 your_name="mn"
 
 def say_hello
-  puts "helow #{julia}"
+  puts "helow #{julia}$"
 end
 
 say_hello
