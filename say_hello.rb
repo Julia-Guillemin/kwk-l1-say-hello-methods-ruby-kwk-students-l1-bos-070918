@@ -1,9 +1,8 @@
 # Build your say_hello method here
 
-your_name="mn"
 
-def say_hello
-  puts "helow #{julia}$"
+def say_hello julia
+  puts "helow #{julia}"
 end
 
 say_hello
