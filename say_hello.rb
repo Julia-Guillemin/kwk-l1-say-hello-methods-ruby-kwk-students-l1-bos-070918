@@ -2,7 +2,7 @@
 
 $your_name=$julia
 def say_hello(julia)
-  puts "helow #{$your_name}"
+  puts "say_hello #{$your_name}"
 end
 
 say_hello ("charly")
