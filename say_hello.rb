@@ -1,7 +1,7 @@
 # Build your say_hello method here
 
 $your_name=$julia
-def say_hello(julia)
+def say_hello($your_name)
   puts "say_hello #{$your_name}"
 end
 
