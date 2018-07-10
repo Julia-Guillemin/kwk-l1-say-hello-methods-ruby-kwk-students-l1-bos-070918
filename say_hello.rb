@@ -8,4 +8,4 @@ say_hello "gabriella"
   puts "Hello #{your_name}! Im #{my_name}"
 end
 
-say_hello
+say_hello ("hope", "leora")
